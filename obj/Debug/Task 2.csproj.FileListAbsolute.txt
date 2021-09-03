@@ -1,0 +1,22 @@
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Task 2\bin\Debug\Task 2.exe.config
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Task 2\bin\Debug\Task 2.exe
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Task 2\bin\Debug\Task 2.pdb
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Task 2\obj\Debug\Task 2.csprojAssemblyReference.cache
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Task 2\obj\Debug\Task_2.Properties.Resources.resources
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Task 2\obj\Debug\Task 2.csproj.GenerateResource.cache
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Task 2\obj\Debug\Task 2.csproj.CoreCompileInputs.cache
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Task 2\obj\Debug\Task 2.exe
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Task 2\obj\Debug\Task 2.pdb
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Task 2\obj\Debug\Task_2.FindForm.resources
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Task 2\obj\Debug\Task_2.NotepadForm.resources
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Task 2 (Notepad)\bin\Debug\Task 2.exe.config
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Task 2 (Notepad)\bin\Debug\Task 2.exe
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Task 2 (Notepad)\bin\Debug\Task 2.pdb
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Task 2 (Notepad)\obj\Debug\Task 2.csprojAssemblyReference.cache
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Task 2 (Notepad)\obj\Debug\Task_2.FindForm.resources
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Task 2 (Notepad)\obj\Debug\Task_2.NotepadForm.resources
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Task 2 (Notepad)\obj\Debug\Task_2.Properties.Resources.resources
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Task 2 (Notepad)\obj\Debug\Task 2.csproj.GenerateResource.cache
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Task 2 (Notepad)\obj\Debug\Task 2.csproj.CoreCompileInputs.cache
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Task 2 (Notepad)\obj\Debug\Task 2.exe
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Task 2 (Notepad)\obj\Debug\Task 2.pdb
